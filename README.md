@@ -13,4 +13,4 @@ O usuário pode:
 
 ### Acesse a aplicação pelo link abaixo:
 
-**[Acesse a aplicação aqui!](https://postech-fiap-previsao-petroleo-u4u34j6bomajilhvgt3nhg.streamlit.app/)**
+**[Acesse a aplicação aqui!](https://postech-fiap-previsao-petroleo.streamlit.app/)**
